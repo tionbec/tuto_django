@@ -1,4 +1,4 @@
-# titi Password123!
+# thiba Password123!
 from django.contrib import admin
 from .models import ToDoList, Item
 # Register your models here.
